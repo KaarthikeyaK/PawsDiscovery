@@ -52,8 +52,3 @@ Let's work together to create an impactful solution for reuniting lost pets with
 
 - [![KaarthikeyaK](https://avatars.githubusercontent.com/u/kaarthikeyak_user_id?v=4)](https://github.com/KaarthikeyaK)
 - [![Chiru-Stack](https://avatars.githubusercontent.com/u/your_user_id?v=4)](https://github.com/Chiru-Stack)
-
-
-<a href="https://github.com/Chiru-Stack/PawsDiscovery/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Chiru-Stack/PawsDiscovery" />
-</a>
