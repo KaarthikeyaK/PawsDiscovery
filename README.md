@@ -1,4 +1,4 @@
-# 🐾 Project 40 - Pets Reunite Hub
+# Pets Reunite Hub
 # "Client" Folder for Frontend "src" Folder for Backend
 ## Overview
 
@@ -7,12 +7,8 @@ this makes pets owners to find their pets easily.
 
 ## Team Members
 
-- Karanki Chiranjeevi
 - Kaarthikeya Kammula
-- Devineni Guna Sekhar
-- Kolupoti Sai Prakash
-- Suram Sai Yaswanth Reddy
-- Hari Sai Veera
+- Karanki Chiranjeevi
 
 ## Project Scope
 
@@ -54,12 +50,9 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 Let's work together to create an impactful solution for reuniting lost pets with their owners!
 ## Contributors
 
-- [![Chiru-Stack](https://avatars.githubusercontent.com/u/your_user_id?v=4)](https://github.com/Chiru-Stack)
 - [![KaarthikeyaK](https://avatars.githubusercontent.com/u/kaarthikeyak_user_id?v=4)](https://github.com/KaarthikeyaK)
-- [![Sekhar0306](https://avatars.githubusercontent.com/u/sekhar0306_user_id?v=4)](https://github.com/Sekhar0306)
-- [![Saikolupoti](https://avatars.githubusercontent.com/u/saikolupoti_user_id?v=4)](https://github.com/saikolupoti)
-- [![Yaswanth14062003](https://avatars.githubusercontent.com/u/yaswanth14062003_user_id?v=4)](https://github.com/yaswanth14062003)
-  
+- [![Chiru-Stack](https://avatars.githubusercontent.com/u/your_user_id?v=4)](https://github.com/Chiru-Stack)
+
 
 <a href="https://github.com/Chiru-Stack/PawsDiscovery/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Chiru-Stack/PawsDiscovery" />
